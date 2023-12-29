@@ -25,7 +25,7 @@
 > Terminada ✅
 
 #### `Secundaria 📗`
-📕📗📘📙📄
+
 > Terminada ✅
 
 #### `Bachillerato 📘`
