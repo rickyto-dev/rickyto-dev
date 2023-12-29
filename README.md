@@ -39,8 +39,8 @@
 * `Css📘`
 * `JavaScript📙`
 * `NodeJs📗`
-* `Sqlite3📄`
-* `MySqlite📄`
+* `SQlite3📄`
+* `MySQlite📄`
 
 > [!note]\
-> Las aplicaciones que creo son para sistemas `WINDOWS` por el momento y tambien creo aplicaciones `WEB` que estas si son multi sistemas. 📢
+> Las aplicaciones que creo son para sistemas `WINDOWS` por el momento y también creo aplicaciones `WEB` que estas si son multi sistemas. 📢
