@@ -8,7 +8,7 @@
   * Comer galletas 🍪.
   * Me gusta leer libros relacionados con la programación 📖.
   * Me gusta mucho la escuela 🎒.
-  * Me gustan mucho los gatos y mas mi Osty que me la paso con el a cada rato 🐈.
+  * Me gustan mucho los gatos y más mi Osty que me la paso con el a cada rato 🐈.
 
 * ` Algunos defectos que tengo son : `
   
