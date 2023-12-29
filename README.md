@@ -1,4 +1,4 @@
-# ☕ Hola soy Rickyto Dev ☕
+# ☕ Hola soy Rickyto Dev 👨🏻‍💻
 
 #### Desarrollador `Junior` que tiene la edad de `16 años`, empece en el mundo de la programación a los 10 años, pero tengo una historia con este mundo de mucho antes de esta edad. Mi nombre real es `Ricardo` pero me gusta más que me digan `Rickyto`.
 
@@ -25,7 +25,7 @@
 > Terminada ✅
 
 #### `Secundaria 📗`
-
+📕📗📘📙📄
 > Terminada ✅
 
 #### `Bachillerato 📘`
@@ -34,17 +34,13 @@
 
 # Lenguajes de Programación 💻
 
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png' width='100px'> 
-
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png' width='100px'> 
-
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png' width='100px'> 
-
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png' width='100px'> 
-
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/npm_button_icon_151891.png' width='100px'> 
-
-<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png' width='100px'> 
+* `Python📘`
+* `Html📕`
+* `Css📘`
+* `JavaScript📙`
+* `NodeJs📗`
+* `Sqlite3📄`
+* `MySqlite📄`
 
 > [!note]\
 > Las aplicaciones que creo son para sistemas `WINDOWS` por el momento y tambien creo aplicaciones `WEB` que estas si son multi sistemas. 📢
