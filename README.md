@@ -1,4 +1,4 @@
-# ☕ Hola soy `rickyto-dev` 👨🏻‍💻
+# ☕ Hola soy `RICKYTO` 👨🏻‍💻
 
 #### Desarrollador `Junior` que tiene la edad de `16 años`, empece en el mundo de la programación a los 10 años, pero tengo una historia con este mundo de mucho antes de esta edad. Mi nombre real es `Ricardo` pero me gusta más que me digan `Rickyto`.
 
