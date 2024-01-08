@@ -40,7 +40,7 @@
 * `JavaScript📙`
 * `NodeJs📗`
 * `SQlite3📄`
-* `MySQlite📄`
+* `MySQL📄`
 
 > [!note]\
 > Las aplicaciones que creo son para sistemas `WINDOWS` por el momento y también creo aplicaciones `WEB` que estas si son multi sistemas. 📢
